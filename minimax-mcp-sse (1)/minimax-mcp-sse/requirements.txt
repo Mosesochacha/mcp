@@ -1,1 +1,2 @@
 minimax-mcp>=0.0.18
+uvicorn>=0.29.0
